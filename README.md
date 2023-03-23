@@ -5,7 +5,7 @@ This Python software provides a simple way to download YouTube videos in either 
 It allows the user to choose where to save the file, either in a specified path or by default in the same directory as the Python program. 
 The user can choose between downloading either the video with its audio or only the audio file. 
 
-The software also presents a list of available formats for the selected video and audio, allowing the user to choose their preferred option. 
+The user is also presented with a list of available formats for the selected video and audio, allowing the them to choose their preferred option. 
 Upon completion, the downloaded file is automatically opened if possible to ensure the download was successful.
 
 ![image](https://user-images.githubusercontent.com/115204665/227081801-4a162ca2-dfdf-4955-a959-d5a545010cb2.png)
