@@ -5,10 +5,10 @@ This Python program allows you to easily download YouTube videos, either in vide
 ### Installation
 To use this program, you will need to install the following libraries:
 
-*pytube
-*moviepy
-*tkinter
-*os
+* pytube
+* moviepy
+* tkinter
+* os
 
 You can install these libraries using pip with the following command:
 ```
@@ -23,6 +23,6 @@ After you click the "Download" button, the program will start downloading the fi
 ### Credits
 This program uses the following libraries:
 
-pytube - Used to download the video from YouTube
-moviepy - Used to play the file after it has been downloaded
-The program also uses the tkinter library to provide a simple interface for the user.
+* pytube - Used to download the video from YouTube
+* moviepy - Used to play the file after it has been downloaded
+* The program also uses the tkinter library to provide a simple interface for the user.
