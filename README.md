@@ -24,7 +24,7 @@ pip install pytube moviepy tkinter os
 ### Important Notice
 PyTube does not fully function at the moment, and if run directly the program with give you an **ERROR** stating that 'NoneType' object has no attribute 'span'.
 
-This requires a quick fix (found thanks to @dark9ive [in this thread](https://github.com/pytube/pytube/issues/1498#issuecomment-1472963944)) that can be patched by modifying {home}/.local/lib/python3.7/site-packages/pytube/cipher.py -- Line 411 -- from
+This requires a quick fix (found thanks to @dark9ive [in this thread](https://github.com/pytube/pytube/issues/1498#issuecomment-1472963944)) that can be patched by modifying **{home}/.local/lib/python3.7/site-packages/pytube/cipher.py** -- **Line 411** -- from
 ```
 transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
 ```
