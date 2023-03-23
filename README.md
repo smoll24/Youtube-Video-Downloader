@@ -20,6 +20,19 @@ You can install these libraries using pip with the following command:
 ```
 pip install pytube moviepy tkinter os
 ```
+
+### Important Notice
+PyTube does not fully function at the moment, and if run directly the program with give you an ERROR stating: 'NoneType' object has no attribute 'span'
+
+This requires a quick fix (found thanks to @dark9ive in the thread: https://github.com/pytube/pytube/issues/1498) that can be patched by modifying {home}/.local/lib/python3.7/site-packages/pytube/cipher.py, Line 411, from
+```
+transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+```
+to
+```
+transform_plan_raw = js
+```
+
 ### Usage
 To use this program, run the yt_downloader.py file. A simple interface will be displayed where you can enter the YouTube link and choose the format of the downloaded file. You can choose to download both video and audio, or only audio. You can also choose to save the file in a specific location or in the same directory as the Python program.
 
