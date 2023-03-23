@@ -13,10 +13,10 @@ Upon completion, the downloaded file is automatically opened if possible to ensu
 ### Installation
 To use this program, you will need to install the following libraries:
 
-* pytube
-* moviepy
-* tkinter
-* os
+* [pytube](https://pytube.io/en/latest/)
+* [moviepy](https://zulko.github.io/moviepy/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [os](https://docs.python.org/3/library/os.html)
 
 You can install these libraries using pip with the following command:
 ```
