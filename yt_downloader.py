@@ -157,7 +157,7 @@ fenetre.configure(background='#e4e4e4')
 
 # Création des boutons
 
-bouton_quitter = tk.Button(fenetre, text='Quitter', command=root.destroy)
+bouton_quitter = tk.Button(fenetre, text='Quit', command=root.destroy)
 bouton_quitter.grid(row=13, column=0, columnspan=3, padx=6, pady=6, ipadx=5)
 
 bouton_video = tk.Button(fenetre, text='Get Video', command=download_video)
