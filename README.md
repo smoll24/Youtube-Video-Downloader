@@ -6,6 +6,8 @@ It allows the user to choose where to save the file, either in a specified path 
 The user has the freedom to choose between downloading either the video with its audio or only the audio file. The software also presents a list of available formats for the selected video and audio, allowing the user to choose their preferred option. 
 Upon completion, the software automatically opens the downloaded file to ensure the download was successful.
 
+![image](https://user-images.githubusercontent.com/115204665/227081312-edcaaaf5-94c7-4cf5-888e-719f9ea56f5b.png)
+
 ### Installation
 To use this program, you will need to install the following libraries:
 
