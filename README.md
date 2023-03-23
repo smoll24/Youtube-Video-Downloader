@@ -25,4 +25,4 @@ This program uses the following libraries:
 
 * pytube - Used to download the video from YouTube
 * moviepy - Used to play the file after it has been downloaded
-* The program also uses the tkinter library to provide a simple interface for the user.
+* tkinter - Used to provide a simple interface for the user.
