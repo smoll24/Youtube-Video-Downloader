@@ -8,8 +8,6 @@ The user can choose between downloading either the video with its audio or only 
 The user is also presented with a list of available formats for the selected video and audio, allowing the them to choose their preferred option. 
 Upon completion, the downloaded file is automatically opened if possible to ensure the download was successful.
 
-![ezgif-4-9ec23466fb](https://user-images.githubusercontent.com/115204665/227121394-70fe0e35-3552-4eba-bed5-57d94c2a6273.gif)
-
 
 ### Installation
 To use this program, you will need to install the following libraries:
@@ -47,3 +45,6 @@ This program uses the following libraries:
 * pytube - Used to download the video from YouTube
 * moviepy - Used to play the file after it has been downloaded
 * tkinter - Used to provide a simple interface for the user
+
+
+![ezgif-4-9ec23466fb](https://user-images.githubusercontent.com/115204665/227121394-70fe0e35-3552-4eba-bed5-57d94c2a6273.gif)
