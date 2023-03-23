@@ -14,7 +14,6 @@ You can install these libraries using pip with the following command:
 ```
 pip install pytube moviepy tkinter os
 ```
-
 ### Usage
 To use this program, simply run the youtube_downloader.py file. A simple interface will be displayed where you can enter the YouTube link and choose the format of the downloaded file. You can choose to download both video and audio, or only audio. You can also choose to save the file in a specific location or in the same directory as the Python program.
 
