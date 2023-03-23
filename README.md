@@ -9,6 +9,8 @@ The user is also presented with a list of available formats for the selected vid
 Upon completion, the downloaded file is automatically opened if possible to ensure the download was successful.
 
 ![image](https://user-images.githubusercontent.com/115204665/227081801-4a162ca2-dfdf-4955-a959-d5a545010cb2.png)
+![ezgif-4-9ec23466fb](https://user-images.githubusercontent.com/115204665/227121394-70fe0e35-3552-4eba-bed5-57d94c2a6273.gif)
+
 
 ### Installation
 To use this program, you will need to install the following libraries:
