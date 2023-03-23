@@ -1,4 +1,3 @@
----
 # Youtube Video Downloader
 
 This Python software provides a simple way to download YouTube videos in either video or audio format by pasting the YouTube link.
