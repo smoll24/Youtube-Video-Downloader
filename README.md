@@ -25,7 +25,7 @@ To use this program, run the yt_downloader.py file. A simple interface will be d
 
 After you click the "Download" button, the program will start downloading the file. Once the download is complete, the file will automatically open so you can confirm that it downloaded correctly.
 
-### Credits
+### Credits 
 This program uses the following libraries:
 
 * pytube - Used to download the video from YouTube
