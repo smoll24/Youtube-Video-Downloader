@@ -8,8 +8,7 @@ The user can choose between downloading either the video with its audio or only 
 The user is also presented with a list of available formats for the selected video and audio, allowing the them to choose their preferred option. 
 Upon completion, the downloaded file is automatically opened if possible to ensure the download was successful.
 
-
-![ezgif-4-9ec23466fb](https://user-images.githubusercontent.com/115204665/227121394-70fe0e35-3552-4eba-bed5-57d94c2a6273.gif)
+![ezgif-1-acfa1a6723](https://user-images.githubusercontent.com/115204665/227125265-412782d3-3ca3-4b6d-a9a5-bbabab1bd4f7.gif)
 
 ### Installation
 To use this program, you will need to install the following libraries:
